@@ -15,7 +15,7 @@
 		http://www.springframework.org/schema/tx/spring-tx.xsd">
 
     <mvc:annotation-driven/>
-    <context:component-scan base-package="by.khm.crm.controller"/>
+    <context:component-scan base-package="by.khm.crm"/>
 
     <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
         <property name="prefix" value="/WEB-INF/view/"/>
