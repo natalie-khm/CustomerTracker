@@ -1,4 +1,4 @@
-package by.khm.springdemo.controller;
+package by.khm.crm.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

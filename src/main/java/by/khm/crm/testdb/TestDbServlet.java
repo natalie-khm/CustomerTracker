@@ -1,4 +1,4 @@
-package by.khm.springdemo.testdb;
+package by.khm.crm.testdb;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
